@@ -1,0 +1,16 @@
+body {
+    background-color: #d2dab7;
+    color: #2b463c;
+    font-family: 'Noto Nastaliq Urdu', serif;
+}
+
+
+.screen {
+    display: grid;
+    text-align: center;
+}
+
+.disFlex {
+    display: flex;
+    align-items: center;
+}
